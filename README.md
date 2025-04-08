@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 👋 [Keshav Kumar]</h1>
+<h1 align="center">Hi there, I'm 👋 Keshav Kumar</h1>
 <p align="center">
   🚀 Aspiring Full Stack Developer | 🧠 DSA Enthusiast | 📚 Lifelong Learner
 </p>
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by [Keshav Kumar]
+  Made with ❤️ by Keshav Kumar
 </p>
