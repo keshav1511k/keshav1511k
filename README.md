@@ -19,7 +19,7 @@
 - 💻 Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`
 - 🖥️ Backend: `Node.js`, `Express.js`
 - 💾 Database: `MongoDB`
-- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
+- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`
 - 🌐 Currently Learning: `MERN Stack`, `DSA`
 
 ---
