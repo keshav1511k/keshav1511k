@@ -112,9 +112,16 @@ Despite a **9 AM – 5 PM college schedule**, I actively invest my time in codin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav1511&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav1511&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=keshav1511&show_icons=true&theme=tokyonight&title_color=ffffff&custom_title=Keshav%20Kumar's%20GitHub%20Stats" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=keshav1511&theme=tokyonight" 
+    alt="GitHub Streak" 
+  />
 </p>
+
 
 ---
 
